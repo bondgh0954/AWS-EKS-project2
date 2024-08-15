@@ -20,17 +20,17 @@
 
    <p align="">
    <h2>step 1    Create Fargate IAM Role</h2>
-   From AWS IAM service, Create IAM role for EKS fargate profile<br/>
-   Attach  'AmazonEKSForFargateServiceRolePolicy'<br/>
+   From AWS IAM service, Create IAM role for EKS fargate pod<br/>
+   Attach  'AmazonEKSFargatePodExecutionRolePolicy'<br/>
   
-   <img src='./pi/p1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./pi/p2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
  
 
 
    <h2>step 2  Create Fargate Profile</h2>
   
-  <img src='./img/w3.png' height="80%" width="80%" alt="Disk Sanitization Step"> 
+  <img src='./p1/p3.png' height="80%" width="80%" alt="Disk Sanitization Step"> 
 
   
 
