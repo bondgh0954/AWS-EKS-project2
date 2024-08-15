@@ -30,7 +30,7 @@
 
    <h2>step 2  Create Fargate Profile</h2>
   
-  <img src='./p1/p3.png' height="80%" width="80%" alt="Disk Sanitization Step"> 
+  <img src='./pi/p3.png' height="80%" width="80%" alt="Disk Sanitization Step"> 
 
   
 
